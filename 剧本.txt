@@ -1,0 +1,151 @@
+注：设计稿640px 的尺寸
+1、加载页面：
+	背景：#ffebeb
+	logo：
+		load-logo  top ：25%     416*121
+		logo   154*121    left:308px;
+	进度条：progress-box     416*20     border: 2px solid #373838;   
+		progress-in:    #ff2d4b
+		progress-txt  220*28  margin-top:40px;
+
+	底部：	
+		footer    640*158      width: 100%;   position: absolute;  bottom: 0;
+		footer-logo  162*39
+	 	footer-txt  	 #ff8797    font-size:24px;     margin:24px auto;  @ 2015 Baidu Waimai Produced
+	 
+
+
+2、第一屏         bgc:deepskyblue
+	云clouds    		640*673 px
+	草地grass	  	640*396
+	树林trees   		599*71  left:24px;  bottom:352px;
+	草地2grass2 		640*228
+	标题bear-title:		397*224  top:4.6%  left: 112px;
+	骑手rider :		167*279 left:256  bottom:346px
+	骑手阴影shadow：        167*32 
+    	开始按钮start-btn:	208*208  bottom  86px  left 216px;
+	文字start-btn-desc :640*31 bottom:38;
+	hello：	 75*70   top 20px  right  8px  #617421   bottom:1.2rem;
+
+	circle：w208*208
+
+            <!-- 云-->
+            <!-- 草地-->
+            <!-- 树林-->
+            <!-- 草地2-->
+            <!-- 标题-->
+            <!-- 骑手-->
+            <!-- 开始按钮-->
+            <!-- 文字-->
+
+
+3、第二屏
+	
+	标题  608*116  padding-left:20px   margin-top,margin-left:32px;
+		竖线： 5*116px;
+		标题字体：64px; 12px;
+	工作 
+		背景：576*573   left:44px  bottom:252px;
+		内容：439*349
+			人：439*349
+			文件：96*48  left:15px  top:200 图片位置 bottom;
+			纸片1:96*32  left:-24px top:-40px 图片位置 0 -23
+			纸片2:96*32  left:4px   top:-64px;
+		标题：363*120  	     left：134px; top: 144px;
+			txt:250*31  margin: 45px 56px;
+	生活：
+		背景：582*520px  left:36px;
+		内容：436*332px  left:108px bottom:272px;
+			人：436*332px
+			腿1:113*24  left:193px top:195px
+			腿2:85*71   left:192px top:144px
+		
+		标题：363*120  	     left：134px; top: 144px;
+			txt:250*31  margin: 45px 56px;	
+	餐厅：
+		背景：561*561  left:20px top:296px;
+		内容：503*229  left:80px bottom:30px;
+			人：503*229 
+			文字1： 79*73  left:-8px  top:32px;
+			文字2： 115*104  left:112px top:-112px;
+			文字3： 77*70  left:292px  top:-57px;
+			文字4： 92*83  left:400px  top:-80px;
+		标题：363*120  	     left：134px; top: 144px;
+        		txt:250*31  margin: 45px 56px;
+	
+	熊： 178*134px  right:40px bottom:0;
+	球体：640px*356px left:0  bottom:0;
+	arrow: 55px 55px  left:292px bottom:16px;
+			
+		
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
